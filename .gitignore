@@ -1,0 +1,36 @@
+# Entorno virtual
+.ml_env/
+venv/
+env/
+.env/
+.env.local
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos de base de datos
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
